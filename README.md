@@ -1,8 +1,8 @@
-# Online Shop
+# CLI-Ecommerce-Engine
 
 A command-line online shopping application written in Python. Browse products, manage a cart, place orders, and administer the store—all from the terminal.
 
-> **Note:** This is not the final version of the project. The repository is public for testing and feedback. If you try it out and find bugs, please [open an issue](https://github.com/Parsalimi/Online-Shop/issues)—thank you for your support!
+> **Note:** This is not the final version of the project. The repository is public for testing and feedback. If you try it out and find bugs, please [open an issue](https://github.com/Parsalimi/CLI-Ecommerce-Engine/issues)—thank you for your support!
 
 ## Features
 
@@ -46,8 +46,8 @@ The system uses a relational-style structure implemented using file-based persis
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Parsalimi/Online-Shop.git
-cd Online-Shop
+git clone https://github.com/Parsalimi/CLI-Ecommerce-Engine.git
+cd CLI-Ecommerce-Engine
 ```
 
 2. **Install dependencies**
@@ -134,7 +134,7 @@ Example admin account (included in sample data):
 ## Project structure
 
 ```
-Online-Shop/
+CLI-Ecommerce-Engine/
 ├── main.py          # Entry point & main menu
 ├── user.py          # Authentication & user management
 ├── item.py          # Product catalog
